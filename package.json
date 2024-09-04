@@ -1,0 +1,16 @@
+{
+    "name": "mi-proyecto",
+    "version": "1.0.0",
+    "description": "Descripción de mi proyecto",
+    "main": "server00.js",
+    "type": "module",  
+    "scripts": {
+      "start": "node server00.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "author": "Nicolás Castro",
+    "license": "ISC"
+  }
+  
